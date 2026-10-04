@@ -4,18 +4,12 @@ A command-line tool to discover trending GitHub repositories by time range.
 
 ## Installation
 
-### Option 1: Run from source
-
 ```bash
 git clone https://github.com/rigopz/github-trending-repo-cli.git
 cd github-trending-cli
 pip install -r requirements.txt
 python main.py
 ```
-
-### Option 2: Download the .exe (Windows)
-
-Download `trending-repos.exe` from [Releases](https://github.com/yourusername/github-trending-cli/releases) and run it directly — no Python required.
 
 ## Usage
 
